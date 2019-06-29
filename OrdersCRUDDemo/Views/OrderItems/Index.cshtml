@@ -1,0 +1,40 @@
+﻿@model IEnumerable<OrdersDemo.DataMapping.Entities.OrderItem>
+
+
+<h2>Manage Order Items</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create",new {orderId =ViewBag.OrderId})
+</p>
+
+<table class="table table-hover">
+    <tr>
+
+        <th>
+            Amount
+        </th>
+
+        <th>
+            Unit ID
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitId)
+            </td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID , orderId = ViewBag.OrderId  }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID, orderId = ViewBag.OrderId })
+            </td>
+        </tr>
+    }
+
+</table>

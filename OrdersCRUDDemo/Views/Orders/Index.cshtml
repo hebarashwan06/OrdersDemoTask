@@ -1,0 +1,45 @@
+﻿@model IEnumerable<OrdersDemo.DataMapping.Entities.Order>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Orders List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Order Date
+        </th>
+        <th>
+            Total Amount
+        </th>
+        <th>
+            Customer ID
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalAmount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CustomerId)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+            @Html.ActionLink("Order Items","Index","OrderItems", new { orderId = item.ID },null) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+        </td>
+    </tr>
+}
+
+</table>

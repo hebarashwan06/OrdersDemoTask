@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\bin\Debug\OrdersDemo.BusinessLogic.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\bin\Debug\OrdersDemo.BusinessLogic.pdb
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\bin\Debug\OrdersDemo.DataAccess.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\bin\Debug\OrdersDemo.DataMapping.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\bin\Debug\OrdersDemo.DataAccess.pdb
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\bin\Debug\OrdersDemo.DataAccess.dll.config
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\bin\Debug\OrdersDemo.DataMapping.pdb
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\bin\Debug\OrdersDemo.DataMapping.dll.config
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\obj\Debug\OrdersDemo.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\obj\Debug\OrdersDemo.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\obj\Debug\OrdersDemo.BusinessLogic.csproj.CopyComplete
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\obj\Debug\OrdersDemo.BusinessLogic.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.BusinessLogic\obj\Debug\OrdersDemo.BusinessLogic.pdb

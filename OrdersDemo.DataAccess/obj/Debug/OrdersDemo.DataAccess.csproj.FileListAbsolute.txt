@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\bin\Debug\OrdersDemo.DataAccess.dll.config
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\bin\Debug\OrdersDemo.DataAccess.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\bin\Debug\OrdersDemo.DataAccess.pdb
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\bin\Debug\OrdersDemo.DataMapping.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\bin\Debug\OrdersDemo.DataMapping.pdb
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\bin\Debug\OrdersDemo.DataMapping.dll.config
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\obj\Debug\OrdersDemo.DataAccess.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\obj\Debug\OrdersDemo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\obj\Debug\OrdersDemo.DataAccess.csproj.CopyComplete
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\obj\Debug\OrdersDemo.DataAccess.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataAccess\obj\Debug\OrdersDemo.DataAccess.pdb

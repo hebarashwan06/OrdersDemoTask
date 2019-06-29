@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\bin\Debug\OrdersDemo.DataMapping.dll.config
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\bin\Debug\OrdersDemo.DataMapping.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\bin\Debug\OrdersDemo.DataMapping.pdb
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\obj\Debug\OrdersDemo.DataMapping.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\obj\Debug\OrdersDemo.DataMapping.Migrations.dataMigrations.resources
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\obj\Debug\OrdersDemo.DataMapping.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\obj\Debug\OrdersDemo.DataMapping.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\obj\Debug\OrdersDemo.DataMapping.csproj.CopyComplete
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\obj\Debug\OrdersDemo.DataMapping.dll
+C:\Users\pc\source\repos\OrdersCRUDDemo\OrdersDemo.DataMapping\obj\Debug\OrdersDemo.DataMapping.pdb
